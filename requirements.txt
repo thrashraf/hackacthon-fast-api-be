@@ -4,3 +4,5 @@ sqlalchemy
 mysql-connector-python
 python-dotenv
 passlib[bcrypt]
+lightgbm
+scikit-learn
